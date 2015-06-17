@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#033}
+#titulo
+{background:#903}
+#pienombre
+{background:#700}
+#Historia
+{background:#009}
+#Miembrosdelabanda
+{background:#009}
+#LosFans
+{background:#009}
+#Instrumentos
+{background:#009}
+#Discografia
+{background:#009}
+#IllNiño_Tour
+{background:#009}
+#introduccion
+{color:#F03; size:5; text-align:justify; background:#000; width:98%; margin:1%}
+#Imagen
+{text-align:center}
+#confession
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#Inicios
+{background:#666}
+#inicio
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#revolution
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#underground
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#enigma
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#deadnewworld
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#epidemia
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#laFamilia
+{color:#F03; size:3; text-align:justify; background:#000; width:98%; margin:1%}
+#genero
+{color:#333; size:3; text-align:justify}
+#disquera
+{color:#333; size:3; text-align:justify}
+#artistasRelacionados
+{color:#333; size:3; text-align:justify}
+#Bateria
+{background:#444}
+#TAMA
+{color:#F03; size:3; text-align:justify;  background:#000; width:98%; margin:1%}
+#Guitarras
+{background:#444}
+#ESP
+{color:#F03; size:3; text-align:justify;  background:#000; width:98%; margin:1%}
+#Tambores
+{background:#444}
+#tambores
+{color:#F03; size:3; text-align:justify;  background:#000; width:98%; margin:1%}
+
+#illniño
+{color:#F03; size:3; text-align:justify; background:#000; width:30%; margin:1%}
+#revolucion1
+{color:#F03; size:3; text-align:justify; background:#000; width:40%; margin:1%}
+#confession2
+{color:#F03; size:3; text-align:justify; background:#000; width:40%; margin:1%}
+#onenationunderground
+{color:#F03; size:3; text-align:justify; background:#000; width:40%; margin:1%}
+#enigma4
+{color:#F03; size:3; text-align:justify; background:#000; width:40%; margin:1%}
+#deadWorld5
+{color:#F03; size:3; text-align:justify; background:#000; width:45%; margin:1%}
+#epidemia6
+{color:#F03; size:3; text-align:justify; background:#000; width:30%; margin:1%}
+#laFamilia7
+{color:#F03; size:3; text-align:justify; background:#000; width:40%; margin:1%}
+#cristian
+{color:#700; size:3; text-align:justify}
+#chavarri
+{color:#A00; size:3; text-align:justify}
+#laz
+{color:#800; size:3; text-align:justify}
+#iluster
+{color:#A00; size:3; text-align:justify}
+#diego
+{color:#700; size:3; text-align:justify}
+#santiago
+{color:#700; size:3; text-align:justify}
+#LaFamilia
+{color:#333; size:3; text-align:justify}
+#RevolutionRevolución
+{background:#555}
+#Género
+{background:#010}
+#InformaciónArtística
+{background:#002}
+#genero
+{color:#F03; size:3; text-align:justify; background:#000; width:35%; margin:1%}
+#Integrantesdelabanda
+{background:#002}
+#Discografía
+{background:#002}
+#Conciertos
+{background:#002}
+#AntiguosMiembros
+{background:#002}
+#LineadelTiempo
+{background:#696}
+#Entrevista
+{background:#039}
+#entrevista1
+{color:#0B0; size:3; text-align:justify}
+#MoscowHall
+{background:#222}
+#LiveinEkaterinburgRussia
+{background:#222}
+#MayhemFestival
+{background:#222}
+#LiveDesco
+{background:#222}
+#LiveinSaintPetersburg
+{background:#222}
+#Ahrue
+{background:#222}
+#Lazaro
+{background:#222}
+#Diego
+{background:#222}
+#Santiago
+{background:#222}
+#Dave
+{background:#222}
+#Cristian
+{background:#222}
+#Revolution
+{background:#555}
+#Confession
+{background:#555}
+#Underground
+{background:#555}
+#Enigma
+{background:#555}
+#DeadNewWorld
+{background:#555}
+#Epidemia
+{background:#555}
+#LaFamilia
+{background:#333}
+#IllNiñoEP
+{background:#555}
+#Confession2
+{background:#555}
+#OneNation
+{background:#555}
+#Enigma4
+{background:#555}
+#DeadNeW
+{background:#555}
+#Epidemia6
+{background:#555}
+#TillDeathLaFamilia
+{background:#555}
+#Marc
+{background:#555}
+#marcR
+{color:#F03; size:5; text-align:justify; background:#000; width:98%; margin:1%}
+#Jardel
+{background:#555}
+#jardelM
+{color:#F03; size:5; text-align:justify; background:#000; width:98%; margin:1%}
+#Roger
+{background:#555}
+#rogerV
+{color:#F03; size:5; text-align:justify; background:#000; width:98%; margin:1%}
+#Daniel
+{background:#555}
+#dannyC
+{color:#F03; size:5; text-align:justify; background:#000; width:98%; margin:1%}
+#Compañíasdiscográficas
+{background:#444}
+#disquera
+{color:#F03; size:3; text-align:justify;  background:#000; width:98%; margin:1%}
+#ArtistasRelacionados
+{background:#444}
+#artistasRelacionados
+{color:#F03; size:3; text-align:justify;  background:#000; width:100%; margin:1%}
+
+
+
